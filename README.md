@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @starlovestocode
 - 👀 I’m interested in coding and sofware dev
-- 🌱 I’m currently learning objectives for Comptia A+ Cert
+- 🌱 I’m currently working on my Comptia A+ Cert
 - 💞️ I’m looking to collaborate on projects for python and C++
 - 📫 How to reach me at starlovestocode@outlook.com
 
